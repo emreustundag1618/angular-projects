@@ -1,0 +1,20 @@
+# Node.js files
+node_modules/
+
+# Angular build artifacts
+/dist/
+
+# Angular configuration file
+/angular.json
+
+# Angular service worker
+/ngsw-config.json
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# OS-specific files
+Thumbs.db
+.DS_Store
